@@ -1,0 +1,1 @@
+-- Q: What is the total amount spent by Homer Simpson across all credit card transactions?

@@ -1,0 +1,1 @@
+EXEC dbo.usp_simpsons_homer_total_spent_load;

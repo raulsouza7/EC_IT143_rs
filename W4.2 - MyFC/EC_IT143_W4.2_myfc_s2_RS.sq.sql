@@ -1,0 +1,5 @@
+-- Q: What is the total number of players in the MyFC database?
+-- A: To find this, we need to count the number of rows in the tblPlayerDim table.
+--    Here are the steps:
+--    1. Count the rows in tblPlayerDim
+--    2. Display the result
